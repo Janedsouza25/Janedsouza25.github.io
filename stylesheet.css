@@ -6,7 +6,7 @@ body{
 text-align:center;
 height:350px;
 padding:20px;
-background-color:aqua;
+background-color:#F8C471  ;
 font-size:50px;
 line-height:290px;
 border-radius:10px;
@@ -15,8 +15,16 @@ border-radius:10px;
 
 .content{
 text-align:center;
-background-color:gray;
+background-color:#BFC9CA;
 padding:30px;
 border-radius:10px;
 
+}
+
+img{
+display:block;
+height:200px;
+width:200px;
+border-width:5px;
+border-color:red;
 }
