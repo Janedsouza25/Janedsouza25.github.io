@@ -1,5 +1,5 @@
 body{
- background-image:url(bodybg2.jpg);
+ background-image:url(leaff.jpg);
 } 
 
 .main{
@@ -18,7 +18,7 @@ text-align:center;
 background:linear-gradient(30deg,gray,#D7DDD9);
 padding:30px;
 border-radius:10px;
-
+margin:25px;
 }
 
 img{
