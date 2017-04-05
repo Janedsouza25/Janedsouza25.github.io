@@ -6,16 +6,16 @@ body{
 text-align:center;
 height:350px;
 padding:20px;
-background-color:#F8C471  ;
+background:linear-gradient(30deg,#51C45C,#5DD4D0);
 font-size:50px;
 line-height:290px;
 border-radius:10px;
-
+margin:25px;
 }
 
 .content{
 text-align:center;
-background-color:#BFC9CA;
+background:linear-gradient(30deg,gray,#D7DDD9);
 padding:30px;
 border-radius:10px;
 
