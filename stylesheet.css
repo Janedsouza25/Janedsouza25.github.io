@@ -1,5 +1,8 @@
 body{
 	margin:0px;
+	background-image:url(nature.jpg);
+background-size:100% 100%;
+background-repeat: no-repeat;
 }
 .header{
 	/*background-color:lightgray;*/
@@ -11,13 +14,14 @@ body{
 .content{
 	margin:5px;
 	height:850px;
+	padding-bottom:40px;
 
 }
 
 .footer{
 	margin:5px;
 	background-color:lightgray;
-	height:40px;
+	/*height:40px;*/
 	text-align:center;
 	line-height:35px;
 	color:#8B4513;
@@ -25,6 +29,7 @@ body{
 
 .header ul{
 	margin:15px;
+	padding-left:5px;
 
 }
 .header ul li{
@@ -54,7 +59,7 @@ width:190px;
 border-radius:150px;
 opacity:0.9;
 margin-bottom:25px;
-margin-top:200px
+margin-top:200px;
 
 /*margin-left:50px;
 margin-top:25px;*/
@@ -73,9 +78,3 @@ margin-top:25px;*/
  	font-size:35px;
  }
 
- @media only screen(max-width: 480px) and only screen(max-device-width: 480px) {
-
- 	.header{
- 	margin-left:5px;
-     }
- }
