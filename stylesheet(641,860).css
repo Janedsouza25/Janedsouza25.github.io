@@ -1,0 +1,7 @@
+
+ @media (min-width:641px) and (max-width:860px){
+body{background-image:url(belowlarge.jpg);
+background-size:100% 100%;}
+.header{margin-left:5px;}
+
+}
